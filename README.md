@@ -23,6 +23,9 @@ A sophisticated route optimization system that combines public transit navigatio
   - Automatic function triggering for path calculations
   - Context-aware response generation
 
+### Data
+- The data are hidden due to copyright
+
 ### Requirements 📦
 - Python 3.10+
 - Ollama runtime environment
