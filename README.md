@@ -24,7 +24,7 @@ A sophisticated route optimization system that combines public transit navigatio
   - Context-aware response generation
 
 ### Data
-- The data are hidden due to copyright
+- The data are hidden due to copyright policy of the course
 
 ### Requirements 📦
 - Python 3.10+
